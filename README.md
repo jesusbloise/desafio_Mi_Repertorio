@@ -30,7 +30,7 @@ Frontend: Coloca aquí los archivos HTML, CSS y JS estáticos.
 Backend: Implementa la lógica del servidor con Node.js y Express.
 
 Ejecución del servidor:
-node backend/server.js
+npm run dev
 Abrir en el navegador: Ve a http://localhost:3000 para interactuar con la aplicación.
 
 📜 Rutas de la API
